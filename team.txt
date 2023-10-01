@@ -4,3 +4,5 @@ test de fonctionnement partie 2 lab 1
 =======
 Joseph Sebujangwe Le prince
 >>>>>>> 9a7681d97fa4ea7afdeee6c92eb00335b57fcefd
+Maïmouna
+<<< TEST TEST >>>
