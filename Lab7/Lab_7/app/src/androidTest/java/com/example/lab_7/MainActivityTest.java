@@ -36,9 +36,9 @@ public class MainActivityTest {
     public void checkLastName() throws Exception{
         assertNotNull(mActivity.findViewById(R.id.textView1));
         text = mActivity.findViewById(R.id.Lastname);
-        text.setText("test1");
+        text.setText("test");
         String name1= text.getText().toString();
-        assertNotEquals("test",name1);
+        assertEquals("test",name1);
     }
 
     @Test

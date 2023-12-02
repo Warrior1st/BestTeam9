@@ -1,6 +1,5 @@
 package com.example.lab_7;
 
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
